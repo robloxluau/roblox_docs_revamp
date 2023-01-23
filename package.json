@@ -1,0 +1,19 @@
+{
+  "name": "roblox_docs_revamp",
+  "version": "1.0.0",
+  "description": "Unstable repo of documentation website revamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robloxluau/roblox_docs_revamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robloxluau/roblox_docs_revamp/issues"
+  },
+  "homepage": "https://github.com/robloxluau/roblox_docs_revamp#readme"
+}
